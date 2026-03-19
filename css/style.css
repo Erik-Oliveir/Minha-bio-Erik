@@ -2,13 +2,27 @@
 .cor-titulo{
     color: rgb(244, 188, 7);
      text-align: center;
+     font-family: 'Courier New', Courier, monospace;
+     background-color: aqua;
 }
 .titulo{
-    color: rgb(244, 188, 7);
+    color: rgb(235, 15, 15);
     text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .cor{
     color: rgb(244, 188, 7);
     text-align: center;
 }
 
+h2{
+    text-align: center;
+}
+
+li{
+    text-align: center;
+}
+
+.div{
+    color: aqua;
+}
