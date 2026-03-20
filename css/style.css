@@ -13,6 +13,7 @@
 .cor{
     color: rgb(244, 188, 7);
     text-align: center;
+    background-color: blanchedalmond;
 }
 
 h2{
@@ -21,6 +22,8 @@ h2{
 
 li{
     text-align: center;
+    color: lightskyblue;
+    background-color: rgb(42, 95, 42);
 }
 
 .div{
